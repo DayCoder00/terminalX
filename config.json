@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "readmeUrl": "https://github.com/DayCoder00/terminalX",
+  "title": "PortfolioTerminal",
+  "name": "Sahil Sharma",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "Github",
+    "linkedin": "Linkedin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "email": "Sahil.Sharmajpr1972@gmail.com",
+  "ps1_hostname": "Rootusr",
+  "ps1_username": "Alex_Rider",
+  "repo": "https://github.com/DayCoder00",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": ""
   },
   "colors": {
     "light": {
@@ -37,3 +37,4 @@
     }
   }
 }
+
